@@ -1,0 +1,6 @@
+[submodule "robot"]
+	path = robot
+	url = https://github.com/Package-Repository/robot.git
+[submodule "sensors"]
+	path = sensors
+	url = https://github.com/Package-Repository/sensors.git
